@@ -1,0 +1,6 @@
+                                       Deep Learning Based House Prediction-Regina
+In the Regina housing prediction project, I harnessed the power of deep learning with a combination of LSTM (Long Short-Term Memory) and CNN (Convolutional Neural Network) models. The goal was to predict housing prices in the city of Regina.
+
+The LSTM-CNN model, known for handling sequential data, was employed to capture temporal dependencies within the dataset. This was particularly crucial in understanding the time-sensitive trends and patterns influencing housing prices over a period.CNN was adapted to extract spatial features from the data. By treating housing-related features as spatial entities, the CNN contributed to a more comprehensive understanding of the factors influencing property prices, especially in different regions of Regina.
+
+This dual-model approach aimed to leverage both the temporal and spatial aspects of the data, providing a more accurate and nuanced prediction of housing prices. The project not only showcased the versatility of deep learning but also demonstrated its effectiveness in capturing the complex dynamics inherent in real estate markets, making it a valuable tool for informed decision-making in the housing sector.
